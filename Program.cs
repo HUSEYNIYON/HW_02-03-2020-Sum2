@@ -19,21 +19,7 @@ namespace HomeWork
        {
            return (side1+side2)*2;
        }
-       public double Area
-       {
-           get
-           {
-               return AreaCalculator();
-           }
-       }
-        public double Perimeter
-        {
-            get
-            {
-                return PerimeterCalculator();
-            }
-        }
-   }
+      
     class Program
     {
        
